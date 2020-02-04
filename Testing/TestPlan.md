@@ -51,5 +51,5 @@
 
 # 5 Представление результатов
 
-Результаты тестирования представлены в документе ["Представление результатов"](https://github.com/eBlow/WeatherApp/Testing/TestResults.md).
+Результаты тестирования представлены в документе ["Представление результатов"](https://github.com/eBlow/WeatherApp/blob/master/Testing/TestResults.md).
 
