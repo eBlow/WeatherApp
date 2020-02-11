@@ -24,15 +24,15 @@
 
 - Главная страница
 
-![Главная страница](https://github.com/eBlow/WeatherApp/blob/master/Mockups/New%20Mockup%201.png)
+![Главная страница](https://github.com/eBlow/WeatherApp/blob/master/Documentation/Mockups/Main.png)
 
 - Меню настроек
 
-![Меню настроек](https://github.com/eBlow/WeatherApp/blob/master/Mockups/New%20Mockup%202.png)
+![Меню настроек](https://github.com/eBlow/WeatherApp/blob/master/Documentation/Mockups/Settings.png)
 
 - Настройка формата отображения даты
 
-![Формат даты](https://github.com/eBlow/WeatherApp/blob/master/Mockups/New%20Mockup%203.png)
+![Формат даты](https://github.com/eBlow/WeatherApp/blob/master/Documentation/Mockups/Date%20format.png)
 
 #### 2.3 Характеристики пользователей<a name="2.3"></a>
 Целевая аудитория проекта:
